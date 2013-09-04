@@ -16,7 +16,7 @@ To run this example locally, clone the repo and start up the service:
 ```
 git clone https://github.com/elimisteve/block-status-code-retriever
 cd block-status-code-retriever
-go run main.go
+go run web.go
 ```
 
 In another terminal, run this command:
