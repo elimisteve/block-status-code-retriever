@@ -1,1 +1,1 @@
-web: retriever
+web: block-status-code-retriever
